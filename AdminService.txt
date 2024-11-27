@@ -1,1 +1,4 @@
 Admin can add and remove user
+can give new role to user
+
+admin login an logout 
